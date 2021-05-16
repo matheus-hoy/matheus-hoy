@@ -24,6 +24,6 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
     <a href="https://www.instagram.com/matheushoy/">
-        <img src="Logo-do-instagram-PNG.png">
+        <img src="C:\Users\mathe\Documents\GitHub\matheus-hoy\Logo-do-Instagram-PNG.png">
 
 </p>
