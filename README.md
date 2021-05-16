@@ -2,7 +2,7 @@
 
 ### Abstract
 <p align="center">
-     <img width="400" src="C:\Users\mathe\Documents\GitHub\matheus-hoy\gifgit.gif">
+     <img width="400" src="gifgit.gif">
 </p>
 
 - 👨‍💻 Estudante de Análise e Desenvolvimento de sistemas na Estácio.
