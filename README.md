@@ -1,6 +1,9 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
+<p align="center">
+     <img width="400" src="C:\Users\mathe\Documents\GitHub\matheus-hoy\gifgit.gif">
+</p>
 
 - 👨‍💻 Estudante de Análise e Desenvolvimento de sistemas na Estácio.
 
