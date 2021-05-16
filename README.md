@@ -1,7 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
-<img src"https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 - 👨‍💻 Estudante de Análise e Desenvolvimento de sistemas na Estácio.
 
