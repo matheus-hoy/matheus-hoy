@@ -16,16 +16,14 @@
 
 ## Contact :iphone:
 
-<p align="center">
-    <a href="https://github.com/matheus-hoy">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"
     <a href="mailto:matheus-hoy@hotmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/matheus-hoy/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
+    <a href="https://www.instagram.com/matheushoy/">
+        <img src="https://br.pinterest.com/pin/627267054330067625/">
+
 </p>
